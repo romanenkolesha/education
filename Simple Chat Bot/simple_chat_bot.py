@@ -33,7 +33,6 @@ def count():
 
 def test():
     print("Let's test your programming knowledge.")
-    # write your code here
     question = "What does the keyword return do?"
     print(question)
     answers = ["1. after the function call, it returns all the arguments",
